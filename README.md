@@ -1,24 +1,7 @@
 # re-vue
 
-## Project setup
-```
-yarn install
-```
+### 9Diin Vue.js
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+- vue에 대해 사용한지 오래 되어 희석 된 학습경험을 상기하기 위해 만든 레포지토리입니다.
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 기본적인 vue의 문법에 대해 공부하고 상태관리에 관해 학습하였습니다. 
